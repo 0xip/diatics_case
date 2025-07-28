@@ -1,0 +1,17 @@
+{
+  "name": "hayvanat-bahcesi-simulasyonu",
+  "version": "1.0.0",
+  "description": "500x500 alanda hayvan simülasyonu - 1000 adım sonucu",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "node test.js"
+  },
+  "keywords": ["simulation", "animals", "console", "nodejs"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+} 
